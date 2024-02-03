@@ -1,0 +1,7 @@
+GitHub is a web-based platform for version control and collaboration using Git. Key features include:
+  -Repository Hosting: Store and manage Git repositories online.
+  -Issues: Track tasks, enhancements, and bugs.
+  -Pull Requests: Propose and review changes collaboratively.
+  -Branch Protection: Safeguard important branches from accidental changes.
+  -Actions: Automate workflows, such as testing and deployment.
+  -Collaboration: Fork repositories, contribute, and manage access permissions.
