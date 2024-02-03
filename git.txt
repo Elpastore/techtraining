@@ -1,0 +1,8 @@
+Git is a distributed version control system that enables collaborative software development. Important concepts and commands include:
+  -Repository: A storage space for project code and history.
+  -Clone: Copy a repository from a remote server to a local machine.
+  -Commit: Save changes with a descriptive message.
+  -Branch: Independent lines of development within a repository.
+  -Merge: Combine changes from different branches.
+  -Push and Pull: Exchange changes with remote repositories.
+  -Pull Request: Propose changes for review and merging.
