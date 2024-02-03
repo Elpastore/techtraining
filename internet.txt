@@ -1,0 +1,21 @@
+The internet is a global network that connects millions of computers worldwide.
+It allows the exchange of information through various protocols and services. Key concepts include:
+
+  1.Network Protocols: Internet protocols like TCP/IP facilitate communication between devices.
+  2.World Wide Web (WWW): A system of interconnected documents and resources accessible via the internet.
+  3.Browsers: Software applications that enable users to navigate and interact with web content.
+  4.HTML, CSS, and JavaScript: Core technologies for creating and designing web pages.
+  5.Security: Considerations such as HTTPS, firewalls, and secure coding practices.
+Server is also an important part of Internet.
+A server is a computer or system that provides services to other computers, known as clients, over a network.
+Key concepts related to servers include:
+  -Types of Servers: Different servers serve various purposes, such as web servers, database servers, and file servers.
+  -Web Server: Handles HTTP requests and serves web content to clients (e.g., Apache, Nginx).
+  -Database Server: Manages database queries and transactions, providing data storage and retrieval.
+  -File Server: Stores and manages files, allowing clients to access and share them.
+  -Client-Server Architecture: The model where clients request services, and servers provide those services.
+  -IP Address and DNS: Servers are identified by IP addresses, and DNS translates human-readable domain names into IP addresses.
+  -Load Balancing: Distributes incoming network traffic across multiple servers to ensure optimal performance and reliability.
+  -Security Measures: Firewalls, encryption, and access controls are crucial for server security.
+Internet include networking and sharing data(information). So to make sure that data exhange is secure there are some method(algorithm), protocol used for this purpose such as HTTPS, SSL etc.
+that use asymetric key encryption(private and public key) to encrypt data.
