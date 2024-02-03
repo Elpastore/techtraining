@@ -1,0 +1,6 @@
+HTTP (Hypertext Transfer Protocol) is a protocol used for communication on the World Wide Web. Key points include:
+  -Request-Response Model: Clients send requests to servers, which respond with data.
+  -Methods: Common methods include GET (retrieve data), POST (submit data), and more.
+  -Status Codes: Indicate the result of a request (e.g., 200 OK, 404 Not Found).
+  -Headers: Additional information sent with requests and responses.
+  -Statelessness: Each request is independent, and the server does not retain client state.
